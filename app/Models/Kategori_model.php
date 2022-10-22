@@ -3,7 +3,7 @@
 class Kategori_model extends CI_Model
 {
     private $_table = "kategori";
-
+    // THIS IS RULES
     public function rules()
     {
         return [
